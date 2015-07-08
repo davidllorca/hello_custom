@@ -17,11 +17,8 @@ import android.widget.TimePicker;
 import android.widget.Toast;
 
 /**
-<<<<<<< HEAD
  *  Simple example with CheckBox, RadioButton, Datepicker, Toast, AlertDialog.
  *
-=======
->>>>>>> origin/master
  * Created by David Llorca <davidllorcabaron@gmail.com> on 7/7/14.
  */
 public class MainActivity extends ActionBarActivity {
