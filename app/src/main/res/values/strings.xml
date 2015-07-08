@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello custom</string>
+    <string name="question">What is your name?</string>
+    <string name="hello">Hello</string>
+    <string name="rbMr">Mister</string>
+    <string name="rbMs">Miss</string>
+    <string name="showTime">Show time</string>
+    <string name="noNameMsq">Field is empty</string>
+</resources>
